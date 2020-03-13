@@ -16,7 +16,10 @@ class Car:
             raise IllegalCarError("Exceeded allowed mass with passangers.")
 
     def total_mass(self):
-        print("Total mass is " + str(self.car_mass + (self.pax_count * 70)))
+        print("Total mass is " + str(self.car_mass + (self.pax_count * 70)) + "\n\n")
 
-car1 = Car(3, 1600, 5)
-car1.total_mass()
+user_input = ""
+
+while user_input != "-exit":
+    car = Car(int(input("Provide passangers count: ")), int(input("Provide car mass: ")), int(input("Provide number of gears: ")))
+    car.total_mass()
