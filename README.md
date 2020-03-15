@@ -4,12 +4,12 @@ by Charles Szelazek
 
 # Chapter One
 
-Solution has to be opened and then compiled to run. To exit program simply click red exit button.
+Compile to run. Click exit button to close.
 
 # Chapter Two
 
-Solution has to be opened and then compiled to run. There are five commands: -add, -edit, -remove, -list and -exit.
+Compile to run. Use commands: -add, -edit, -remove, -list and -exit.
 
 # Chapter Three
 
-Solution has to be opened and then compiled to run.
+Compile to run. Wait about five seconds to get the answear.
