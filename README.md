@@ -12,4 +12,4 @@ Compile to run. Use commands: -add, -edit, -remove, -list and -exit.
 
 # Chapter Three
 
-Compile to run. Wait about five seconds to get the answear.
+Compile to run. Wait about five seconds to get the answer.
